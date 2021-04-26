@@ -41,7 +41,6 @@ NOTE: source image (srcImage) must be 8-bit grayscale. Target image (tgtImage)
 #include "exceptions.h"
 
 #include <opencv2/opencv.hpp>
-#include <opencv2/highgui/highgui.hpp>
 #include <string>
 
 #define NFIR_VERSION "0.1.1"
